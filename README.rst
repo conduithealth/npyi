@@ -1,3 +1,7 @@
+.. image:: https://codecov.io/gh/conduithealth/npyi/branch/main/graph/badge.svg?token=466g8Z6o2r 
+ :target: https://codecov.io/gh/conduithealth/npyi
+
+
 NPyI
 ==============
 
