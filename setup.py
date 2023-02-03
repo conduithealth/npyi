@@ -2,7 +2,7 @@ import io
 
 from setuptools import setup, find_packages
 
-version = "0.1.3"
+version = "1.0.0"
 requirements = ["requests==2.28.1"]
 
 with io.open("README.rst", "r", encoding="utf-8") as f:
@@ -14,10 +14,9 @@ setup(
     version=version,
     long_description=readme,
     description="API wrapper around the NPPES API",
-    author="Andy Huynh",
-    license="BSD",
-    author_email="andy.huynh312@gmail.com",
-    url="https://github.com/andyh1203/npyi",
+    author="Conduit Health",
+    author_email="admin@conduithealth.com",
+    url="https://github.com/conduithealth/npyi",
     keywords=["npyi", "npi", "nppes"],
     install_requires=requirements,
 )
